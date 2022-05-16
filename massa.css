@@ -1,0 +1,32 @@
+input{
+    border-radius: 5px;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-radius: 5px;
+}
+body{
+    margin: auto;
+}
+
+fieldset{
+    width: 30%;
+    border-radius: 5px;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    color: aliceblue;
+    
+}
+
+section{
+    margin-top: 1%;
+    display: flex;
+    justify-content: center;
+}
+
